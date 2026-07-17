@@ -12,20 +12,10 @@
 
 ---
 
-## 🚀 About Me
-
-- 🌱 Currently learning **Python, Django & Django REST Framework**
-- 🔥 Building real-world backend projects
-- 📚 Improving my problem-solving skills every day
-- 🎯 Goal: Become a Professional Python Backend Developer
-- 🇺🇿 From Uzbekistan
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,git,github,vscode,linux,postgresql,sqlite,html,css" />
+<img src="https://skillicons.dev/icons?i=python,django,git,github,vscode,,,html," />
 </p>
 
 ---
@@ -47,7 +37,7 @@
 ## 💻 Tools I Use
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,git,github,vscode,pycharm,linux,postman" />
+<img src="https://skillicons.dev/icons?i=python,django,git,github,vscode,pycharm,postman" />
 </p>
 
 ---
