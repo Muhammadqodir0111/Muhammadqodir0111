@@ -1,69 +1,102 @@
 <div align="center">
 
-# Hi, I'm Muhammadqodir Mominov 👋
+# 👋 Assalomu alaykum, men Muhammadqodir Mo'minov
 
-### 💻 Python Backend Developer | Django Developer
+### 🚀 Python Backend Developer | Django Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;Django+Developer;Learning+Django+REST+Framework;Building+Real+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=650&color=00BFFF&lines=Python+Backend+Developer;Django+Developer;Backend+Enthusiast;Always+Learning+New+Things" />
 
-<img src="https://komarev.com/ghpvc/?username=Muhammadqodir0111&style=for-the-badge&color=0e75b6"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Muhammadqodir0111&style=for-the-badge&color=blue" />
 
 </div>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,git,github,vscode,,,html," />
-</p>
+🌱 **Currently Learning**
 
----
+- Python
+- Django
+- Django REST Framework
 
-## 📊 GitHub Stats
+💼 **What I Do**
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammadqodir0111&show_icons=true&theme=tokyonight&hide_border=true"/>
+- 🔥 Building real-world backend projects
+- 📚 Learning new technologies every day
+- 💡 Writing clean and efficient code
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadqodir0111&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+🎯 **Goal**
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Muhammadqodir0111&theme=tokyonight&hide_border=true"/>
-</p>
+Become a Professional Python Backend Developer.
 
----
-
-## 💻 Tools I Use
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,git,github,vscode,pycharm,postman" />
-</p>
+🇺🇿 **Location:** Uzbekistan
 
 ---
 
-## 📫 Contact
+# 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<a href="https://t.me/@ultra_vex77">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,django,git,github,vscode,postman&perline=6" />
+
+</div>
+
+---
+
+# 💻 Currently Working With
+
+<div align="center">
+
+| Technology | Level |
+|------------|-------|
+| 🐍 Python | ⭐⭐⭐⭐☆ |
+| 🌿 Django | ⭐⭐⭐⭐☆ |
+| 🔥 Git | ⭐⭐⭐⭐☆ |
+| 🐙 GitHub | ⭐⭐⭐⭐☆ |
+| 💙 VS Code | ⭐⭐⭐⭐⭐ |
+| 📮 Postman | ⭐⭐⭐⭐☆ |
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://t.me/ultra_vex77">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="mailto:muhammadqodirmominov55@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 Favorite Quote
+## 💭 Favorite Quote
 
-> **"Code. Learn. Build. Repeat."**
+### *"Code. Learn. Build. Repeat."* 🚀
 
-⭐ Thanks for visiting my profile!
+⭐ **Thank you for visiting my profile!**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+```
+
+## 🔥 Bu variantning afzalliklari:
+
+* ✅ Zamonaviy dizayn
+* ✅ Animatsion yozuv (Typing SVG)
+* ✅ Chiroyli Tech Stack ikonkalari
+* ✅ GitHub statistikasi yo'q
+* ✅ Minimal va professional
+* ✅ Footer banner bilan tugaydi
