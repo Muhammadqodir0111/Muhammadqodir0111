@@ -48,17 +48,9 @@ Become a Professional Python Backend Developer.
 
 # 💻 Currently Working With
 
-<div align="center">
-
-| Technology | Level |
-|------------|-------|
-| 🐍 Python | ⭐⭐⭐⭐☆ |
-| 🌿 Django | ⭐⭐⭐⭐☆ |
-| 🔥 Git | ⭐⭐⭐⭐☆ |
-| 🐙 GitHub | ⭐⭐⭐⭐☆ |
-| 💙 VS Code | ⭐⭐⭐⭐⭐ |
-| 📮 Postman | ⭐⭐⭐⭐☆ |
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,git,github,vscode,postman&theme=dark" />
+</p>
 </div>
 
 ---
@@ -92,11 +84,3 @@ Become a Professional Python Backend Developer.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 ```
 
-## 🔥 Bu variantning afzalliklari:
-
-* ✅ Zamonaviy dizayn
-* ✅ Animatsion yozuv (Typing SVG)
-* ✅ Chiroyli Tech Stack ikonkalari
-* ✅ GitHub statistikasi yo'q
-* ✅ Minimal va professional
-* ✅ Footer banner bilan tugaydi
